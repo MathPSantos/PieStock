@@ -13,7 +13,7 @@
 
 After cloning this repo
 ### Backend
-- Open the **backend** folder and run ```yarn```
+- Open the **backend** folder and run ```yarn``` to install packages
 - Run ```yarn dev``` to up the server
 - Open ```Insomnia``` or ```Postman``` and import the ```Insomnia.json``` workspace file at ```backend``` folder
 
