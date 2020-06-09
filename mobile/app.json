@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "HelloWorld",
+    "name": "Pie Stock",
     "slug": "mobile",
     "platforms": [
       "ios",
@@ -22,7 +22,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false
     }
   }
 }
