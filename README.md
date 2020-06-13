@@ -34,7 +34,9 @@
 ## :rocket: Project Summary
 
 This Project is made with the objective to control the stock of pies, bringing productivity to micro-entrepreneurs!
- 
+
+---
+
 ## 👨‍💻️ Technologies Used
 
 This project was developed using the technologies bellow:
@@ -158,5 +160,5 @@ Open ```Insomnia``` or ```Postman``` and import the ```Insomnia.json``` workspac
 [MIT License](/LICENSE)
 
 <h4 align="center">
-  Made with ❤️ by Matheus Pires Santos <a href="mailto:matheus.psantos2016@gmail.com">Get in touch!</a>
+  Made with ❤️ by Matheus Pires Santos! <a href="https://www.linkedin.com/in/mathpsantos/">Get in touch</a> or send a email to matheus.psantos2016@gmail.com!
 </h4>
